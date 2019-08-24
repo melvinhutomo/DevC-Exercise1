@@ -1,0 +1,10 @@
+body{
+    background: cadetblue;
+    margin: 50px 10px;
+    border: 1px solid black;
+    padding: 3rem;
+}
+
+.box{
+    padding: 2rem;
+}
